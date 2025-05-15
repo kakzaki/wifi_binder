@@ -2,7 +2,7 @@ Berikut adalah isi lengkap `README.md` untuk plugin Flutter `wifi_binder`, terma
 
 ---
 
-# 📶 wifi\_binder\
+# 📶 wifi\_binder
 
 A Flutter plugin to **force network traffic over Wi-Fi only**, even when mobile data is turned on. Useful for connecting to local-only Wi-Fi devices such as **dashcams**, **IoT devices**, or **local servers**.
 
